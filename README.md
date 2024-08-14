@@ -32,3 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 Nesse projeto desenvolvemos uma versão simplificada de um sistema de roteiro de viagem.
+
+## 📝 Licença
+Esse projeto está sob a licença MIT.
